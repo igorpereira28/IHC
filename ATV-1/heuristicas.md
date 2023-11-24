@@ -3,7 +3,8 @@
 
 <br>
 
-<h2>  IHC atual: o trabalho das heurísticas de usabilidade e acessibilidade avaliei formas convencionais de IHC: uma interação humano computador cujo fim é comprar um produto, marcar uma passagem, etc em uma interface gráfica convencional.</h2>
+<h2>  Atividade de Interação Humano Computador, demonstrando as 10 heuristicas.</h2>
+<h2> As 10 heurísticas de usabilidade de Jakob Nielsen são princípios fundamentais que servem como diretrizes para avaliar e melhorar a usabilidade de interfaces de usuário </h2>
 
 <br>
 
@@ -13,7 +14,7 @@
 
 <h2>1° Lei: Visibilidade do Status do Sistema</h2>
 
-  <h3>1 - Alura
+  <h2>Alura </h2>
 
   <br>
 
@@ -26,7 +27,7 @@
 ---------------------------------------
 <h2>2° Lei: Compatibilidade entre o sistema e o mundo real</h2>
 
-  <h2>2 - Icons - Smartphone
+  <h2>Icons - Smartphone </h2>
 
   <br>
 
@@ -40,7 +41,7 @@
 ---------------------------------------
 <h2>3° Lei: Controle e liberdade para o usuário</h2>
 
-  <h2>3 - Lixeira
+  <h2>Lixeira </h2>
 
   <br>
 
@@ -54,7 +55,7 @@
 ---------------------------------------
 <h2>4° Lei: Consistência e Padronização</h2>
 
-  <h2>4 - E-Mail - Outlook
+  <h2>E-Mail - Outlook </h2>
 
   <br>
 
@@ -68,7 +69,7 @@
 ---------------------------------------
 <h2>5° Lei: Prevenção de erros</h2>
 
-  <h2>5 - Nubank
+  <h2>Nubank </h2>
 
   <br>
 
@@ -82,7 +83,7 @@
 ---------------------------------------
 <h2>6° Lei: Reconhecimento em vez de memorização</h2>
 
-  <h2>6 - Mercado Livre
+  <h2>Mercado Livre </h2>
 
   <br>
 
@@ -96,7 +97,7 @@
 ---------------------------------------
 <h2>7° Lei: Eficiência e flexibilidade de uso</h2>
 
-  <h2>7 - YouTube
+  <h2>YouTube </h2>
 
   <br>
 
@@ -112,7 +113,7 @@
 --------------------------
 <h2>8° Lei: Estética e design minimalista</h2>
 
-  <h2>8 - Netflix
+  <h2>Netflix </h2>
 
   <br>
 
@@ -128,7 +129,7 @@
 --------------------------
 <h2>9° Lei: Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros</h2>
 
-  <h2>9 - Tela Login
+  <h2>Tela Login </h2>
 
   <br>
 
@@ -144,7 +145,7 @@
 --------------------------
 <h2>10° Lei: Ajuda e documentação</h2>
 
-  <h2>10 - GitHub
+  <h2>GitHub </h2>
 
   <br>
 
